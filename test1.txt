@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 088C-D73F
+
+ Directory of C:\Users\NdibzManyatshe\Documents\Learning\Work Projects\GitProjectEG
+
+21-Jul-20  19:20    <DIR>          .
+21-Jul-20  19:20    <DIR>          ..
+21-Jul-20  19:20                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  12,139,663,360 bytes free
